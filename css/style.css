@@ -33,13 +33,13 @@
 }
 
 .cookie {
-  color: rgb(54, 23, 1);
+  color: rgb(54 23 1);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.30rem;
 }
 
 body {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255 255 255);
 }
 
 img {
